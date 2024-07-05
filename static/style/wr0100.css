@@ -1,0 +1,9 @@
+html, body, .centre_container {
+    height: 100%;
+}
+
+.centre_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
