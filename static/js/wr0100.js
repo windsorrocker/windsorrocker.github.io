@@ -146,3 +146,8 @@ function goToUrl(addr){
     }
     return false;
 }
+
+function selectOption(id, valueToSelect) {    
+    let element = document.getElementById(id);
+    element.value = valueToSelect;
+}

@@ -32,4 +32,7 @@ version: 0.1
 kramdown:
   gfm_quirks: [paragraph_end]
   gfm_emojis: true
-  hard_wrap: true# Exclude from processing.
+  hard_wrap: true
+collections:
+    gallery:
+        output: true
