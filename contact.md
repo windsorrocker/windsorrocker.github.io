@@ -51,20 +51,20 @@
     </div>
     <div>
         <label>
-            <span>Country: (required)</span>
+            <span>Country:</span>
             <input name="Country" value="United Kingdom" placeholder="United Kingdom" type="text" tabindex="9" required><span class="required">*</span>
         </label>
     </div>
     <div>
         <label class="text_area">
             <span>Details:</span>
-            <textarea name="Other" placeholder="If you have any specific requests, please add them here" tabindex="10" cols="80" rows="4" wrap="soft" spellcheck></textarea>
+            <textarea name="Other" placeholder="If you have any specific requests, please add them here" tabindex="10" wrap="soft" spellcheck></textarea>
         </label>
     </div>
     <div id="chair_details">
         <label>
             <span>Quantity:</span>
-            <input name="Quantity" type="number" min="1" max="9" placeholder="1" tabindex="11" required>
+            <input name="Quantity" type="number" min="1" max="9" placeholder="1" tabindex="11" value="1">
         </label>
         <label for="chair_type" id="chair_type_label">
             <span>Chair type:</span>

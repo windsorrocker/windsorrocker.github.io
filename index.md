@@ -1,31 +1,29 @@
 ---
 title: Windsor Rocker
 layout: default
-main_image: kwf/KWFWindsorRocker/WindsorRocker_Screen_LowerCourt.jpg
+main_image: kwf/KWFWindsorRocker/WindsorRocker_Screen_LowerCourt.jpg&right=0.98
 options:
   - name: ash
     image_path: kwf/KWFWindsorRocker/KWF%20Windsor%20Rocker%20quarter%20view.jpg&right=0.95313&left=0.025
     description: Ash
     price: £3,600
-  - name: black
-    image_path: kwf/KWFWindsorRocker/Black%20Windsor%20rocker.jpg&bottom=0.94375&top=0.06563
-    description: Black
-    price: £3,600
   - name: oak
-    image_path: kwf/KWFWindsorRocker/KWF%20Windsor%20Rocker%20quarter%20view.jpg&right=0.95313&left=0.025
+    image_path: /kwf/KWFWindsorRocker/KWF%20Windsor%20rocker%20oak%202.jpg&bottom=0.94375&top=0.08438
     description: Oak
     price: £3,600
-  - name: something_else
-    image_path: kwf/KWFWindsorRocker/KWF-WindsorRocker-WalnutAsh-F12-White.jpg&bottom=0.84688&top=0.17813
-    description: Something else
+  - name: blackened oak
+    image_path: kwf/KWFWindsorRocker/Black%20Windsor%20rocker.jpg&bottom=0.94375&top=0.06563&flip=h
+    description: Blackened oak
+    price: £3,600
+  - name: coloured
+    image_path: /kwf/KWFWindsorRocker/KWFWindsorRockerWalnutCut.jpg&flip=h
+    description: Coloured ash
     price: £3,600
 ---
-<section id="shop" markdown="1">
-
-## <a href="#shop" title="Link to this heading">Shop</a>
+<section id="top" markdown="1">
 
 <div class="image">
-<img class="lazy-image" src="http://images.cart-shed.com/static/images/spacer.png"    data-defer-src="http://images.cart-shed.com/image?src={{ page.main_image }}&width=770">
+<img class="lazy-image" src="/static/images/spacer.png"    data-defer-src="///images.cart-shed.com/image?src={{ page.main_image }}&width=770">
 </div>
 
 <div id="words">
@@ -34,10 +32,15 @@ The Windsor rocker is a contemporary wooden rocking chair with its roots firmly 
 
 </div>
 
+</section>
+<section id="shop" markdown="1">
+
+## <a href="#shop" title="Link to this heading">Shop</a>
+
 <div class="grid_container">
 
 {% for item in page.options %}<div class="image grid_item">
-<img class="lazy-image" src="http://images.cart-shed.com/static/images/spacer.png" data-defer-src="http://images.cart-shed.com/image?src={{ item.image_path }}&width=360">
+<img class="lazy-image" src="/static/images/spacer.png" data-defer-src="///images.cart-shed.com/image?src={{ item.image_path }}&width=360">
 <div class="name">{{ item.description | capitalize }}</div>
 <div class="price">{{ item.price }}</div>
 <a class="button order" onclick="selectOption('chair_type', '{{ item.name }}');window.location.href = '#contact';">Order now</a>
@@ -55,7 +58,7 @@ All prices include UK mainland delivery and VAT at 20%. Please contact us for ov
 
 ### <a name="story"></a>The story
 
-The Windsor Rocker was designed by Katie Walker in 2011. Her designs are not lead by fashion or current trends but rather by the ambition of achieving a pure, visually simple, balanced design whose form has been developed in conjunction with its structure. Its conception was one of those ‘light bulb’ moments when Katie, having researched the craft of Windsor chair making saw an existing design of hers, The Ribbon rocking chair in a new light - The challenge when designing the 'Ribbon' rocking chair was to create a form in which the backrest, armrests and runners were made from one continuous piece. This was realised by laminating 1.5mm strips of wood veneers. However, Katie realised that as with the wheelwrights craft this continuous band could also be formed by steam bending. And so the idea of the Windsor Rocker was born. The result of working closely with skilled craftsmen across the UK, often extending the boundaries of what are essentially traditional processes. It took many years to realise in its current beautifully crafted form.
+The Windsor Rocker was designed by Katie Walker in 2011. Her designs are not lead by fashion or current trends but rather by the ambition of achieving a pure, visually simple, balanced design whose form has been developed in conjunction with its structure. Its conception was one of those ‘light bulb’ moments when Katie, having researched the craft of Windsor chair making saw an existing design of hers, the [Ribbon rocking chair](///www.katiewalkerfurniture.com/furniture/ribbonrocker.html){:target="_new"}, in a new light. The challenge when designing the Ribbon rocking chair was to create a form in which the backrest, armrests and runners were made from one continuous piece. This was realised by laminating 1.5mm strips of wood veneers. However, as with the wheelwright's craft, the geometry of this continuous band lent itself to being formed by steam bending. And so the idea of the Windsor Rocker was born. The result of working closely with skilled craftsmen across the UK, often extending the boundaries of what are essentially traditional processes. It took many years to realise in its current beautifully crafted form.
 
 Something about the beauty of working with traditional processes in an exciting contemporary way. Working with wood, our primary natural renewable resource and designing a piece to be handed down the generations.
 
@@ -65,7 +68,7 @@ A winner of the Wood Awards in 2011 and awarded a <a href="https://www.designgui
 
 ### <a name="sustainability"></a>Sustainability
 
-As an entirely timber product the Windsor rocker has always been made from sustainably sourced timber. From 2024 this will also be British with a Windsor Rockers provenance being directly traceable back to the estate from which the wood was grown. As corporate members of Woodland Heritage we are proud to support British Forestry  with the Knowledge that it will provide a well managed sustainable resource for the future and encourage you to support them too: Woodland Heritage 
+As an entirely timber product the Windsor rocker has always been made from sustainably sourced timber. From 2024 this is also entirely British with a Windsor Rocker's provenance being directly traceable back to the estate from which the wood was grown. As corporate members of [Woodland Heritage](https://www.woodlandheritage.org){:target="_new"} we are proud to support British Forestry with the knowledge that it will provide a well managed sustainable resource for the future. We encourage you to support them too. Woodland Heritage 
 
 We use natural finishes and as few processes in their manufacture as possible.
 
