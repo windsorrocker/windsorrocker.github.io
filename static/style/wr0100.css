@@ -192,6 +192,11 @@ h2 {
     }
 }
 
+.copyright {
+    font-size: 80%;
+    font-style: italic;
+}
+
 .lazy-image {
     width: 100%;
 }

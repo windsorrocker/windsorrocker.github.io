@@ -10,3 +10,5 @@ We offer free delivery to most parts of the UK with a specialist art delivery co
 During the first 30 days after delivery, if, for any reason, you are not totally delighted with your Windsor Rocker and it is made with one of our standard woods and finishes, please contact us so that we may talk to you about this. If you would like to return your Windsor Rocker then we will arrange for it to be collected (again using our specialist delivery company) and the cost of this will be deducted from your refund. Refunds will only be made for pieces that have no signs of use and are returned in all of their original packaging.
 
 We do not offer refunds for bespoke versions of the Windsor Rocker that have been made to order.
+
+Please note that all deliveries and returns are subject to our [terms and conditions](/terms.html).

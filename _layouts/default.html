@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 
 <head>
-{% include analytics.html %}
-{% include head.html %}
+    {% include head.html %}
 </head>
+{% include analytics.html %}
 
 <body>
 <a name="top"></a>
@@ -28,46 +28,13 @@
 
 </div>
     
-    <script type="text/javascript">
-     function ready(fn) {
-         if (document.addEventListener) {
-             document.addEventListener('DOMContentLoaded', fn);
-         } else {
-             document.attachEvent('onreadystatechange', function() {
-                 if (document.readyState === 'interactive')
-                     fn();
-             });
-         }
-     }
-
-     ready(function() {
-
-         if (('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0)) {
-             /* browser with either Touch Events of Pointer Events running on touch-capable device */
-             var b = document.getElementsByTagName('body');
-             if (b.length > 0) {
-                 if (b[0].classList) {
-                     b[0].classList.add('touch');
-                 } else {
-                     b[0].className += ' ' + 'touch';
-                 }
-             }
-             wrAddEventListener(document.getElementById('show_nav'), 'click', show_nav);
-             wrAddEventListener(document.getElementById('show_nav'), 'touchend', show_nav);
-         } else {
-             wrAddEventListener(document.getElementById('show_nav'), 'click', show_nav);
-             wrAddEventListener(document.getElementById('show_nav'), 'touchend', show_nav);
-         }
-     });
-
-    </script>
 
     <noscript>
         <div class="noscript">
 	        <p>This site requires JavaScript. Please enable JavaScript in you browser settings.</p>
 	    </div>
     </noscript>
-
+{% include cookie-consent.html %}
 </body>
 
 </html>
