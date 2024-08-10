@@ -255,11 +255,11 @@ form span.required {
 }
 
 .button {
-    background-image: linear-gradient(#42A1EC, #0070C9);
-    border: 1px solid #0077CC;
+    background-image: linear-gradient(#FFF, #EEE);
+    border: 1px solid var(--input-border-color);
     border-radius: 4px;
     box-sizing: border-box;
-    color: #FFFFFF;
+    color: #000;
     cursor: pointer;
     display: block;
     font-size: 1rem;
@@ -284,14 +284,14 @@ form span.required {
 }
 
 .button:hover {
-    background-image: linear-gradient(#51A9EE, #147BCD);
-    border-color: #1482D0;
+    background-image: linear-gradient(#DDD, #CCC);
+    border-color: #000;
     text-decoration: none;
 }
 
 .button:active {
-    background-image: linear-gradient(#3D94D9, #0067B9);
-    border-color: #006DBC;
+    background-image: linear-gradient(#CCC, #BBB);
+    border-color: #000;
     outline: none;
 }
 

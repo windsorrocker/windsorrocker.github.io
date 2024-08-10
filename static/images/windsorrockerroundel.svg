@@ -34,12 +34,12 @@
      id="namedview5403"
      showgrid="false"
      inkscape:zoom="1.6586367"
-     inkscape:cx="236.03722"
+     inkscape:cx="235.73577"
      inkscape:cy="230.30963"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer8"
      showguides="true"
      inkscape:guide-bbox="true"
      fit-margin-top="0"
@@ -524,22 +524,69 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="New Text"
-     style="display:inline"
-     sodipodi:insensitive="true">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:1.25;font-family:'Frutiger 45 Light';-inkscape-font-specification:'Frutiger 45 Light, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:30px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.10985;stroke-opacity:1"
-       id="text30767"><textPath
-         xlink:href="#path28480"
-         id="textPath91248"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Frutiger 55 Roman';-inkscape-font-specification:'Frutiger 55 Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">WINDSOR</textPath></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:50px;line-height:1.25;font-family:sans-serif;letter-spacing:56.25px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.14045;stroke-opacity:1"
-       id="text36711"><textPath
-         xlink:href="#path28310"
-         id="textPath57679"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Frutiger 55 Roman';-inkscape-font-specification:'Frutiger 55 Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.14045">ROCKER</textPath></text>
+     style="display:inline">
+    <g
+       aria-label="WINDSOR"
+       id="text30767"
+       style="font-weight:bold;font-size:50px;line-height:1.25;font-family:'Frutiger 45 Light';-inkscape-font-specification:'Frutiger 45 Light, Bold';letter-spacing:30px;word-spacing:0px;display:inline;stroke:#000000;stroke-width:1.10985">
+      <path
+         d="m 81.663701,191.43521 2.156096,-6.35824 -26.423956,-17.02944 0.03136,-0.0925 31.316335,2.602 2.069852,-6.10391 -29.58215,-21.40018 -1.701356,5.01724 25.618563,17.50393 -0.03136,0.0925 -30.730473,-2.42911 -2.273701,6.70505 25.900816,16.67158 -0.03136,0.0925 -30.981364,-1.68925 -1.764079,5.2022 z"
+         style="font-weight:normal;font-family:'Frutiger 55 Roman';-inkscape-font-specification:'Frutiger 55 Roman, Normal'"
+         id="path937" />
+      <path
+         d="m 116.13499,126.91274 3.41648,-3.65738 -25.494665,-23.815404 -3.416485,3.657384 z"
+         style="font-weight:normal;font-family:'Frutiger 55 Roman';-inkscape-font-specification:'Frutiger 55 Roman, Normal'"
+         id="path939" />
+      <path
+         d="m 149.6175,98.642321 4.51586,-2.157754 -12.36762,-25.883562 0.0881,-0.0421 26.62009,19.073479 5.77148,-2.757715 -15.04112,-31.478816 -4.49383,2.147228 12.10448,25.332848 -0.11015,0.05263 -25.98246,-18.701701 -6.14597,2.93665 z"
+         style="font-weight:normal;font-family:'Frutiger 55 Roman';-inkscape-font-specification:'Frutiger 55 Roman, Normal'"
+         id="path941" />
+      <path
+         d="m 212.00954,78.382926 10.30246,0.07409 q 18.23719,0.08232 18.73067,-17.614785 -0.039,-8.154789 -5.32884,-12.685133 -5.16811,-4.480639 -13.15095,-4.586875 l -10.30246,-0.07409 z m 5.22403,-30.456385 5.83481,0.04196 q 5.56591,0.08885 9.0818,3.458952 3.58914,3.370623 3.59337,9.571986 -0.21739,13.255615 -13.44877,13.062806 l -5.24889,-0.03775 z"
+         style="font-weight:normal;font-family:'Frutiger 55 Roman';-inkscape-font-specification:'Frutiger 55 Roman, Normal'"
+         id="path943" />
+      <path
+         d="m 303.86002,67.260265 2.52361,-3.927347 q -2.97288,-2.686583 -6.29607,-4.166186 -4.43835,-1.976114 -8.24403,-1.051528 -3.90483,0.907167 -5.85604,5.169541 -0.81428,1.82887 -0.7335,3.388135 -0.0135,1.65092 0.49869,3.081568 1.1533,2.811804 3.27865,5.121038 1.07008,1.198002 2.03858,2.32405 0.95856,1.148351 1.58991,2.31136 0.68588,1.160565 0.81646,2.367863 0.13059,1.207297 -0.48509,2.590102 -0.60574,1.360501 -1.63493,2.051427 -1.00444,0.755393 -2.29607,0.955329 -2.52871,0.397428 -4.64997,-0.60048 -1.78426,-0.794417 -3.3302,-2.124114 -1.60047,-1.327254 -2.60869,-2.364089 l -2.33281,4.039023 q 2.5986,2.626842 5.91675,4.237822 4.95133,2.204509 9.27748,1.431479 4.33852,-0.740797 6.61742,-5.739179 1.68325,-3.900635 0.55242,-6.942959 -1.09372,-2.945623 -3.29086,-5.393722 -0.91885,-1.237564 -1.84274,-2.343752 -0.97842,-1.103744 -1.67423,-2.242006 -0.66114,-1.096099 -0.89591,-2.189437 -0.27938,-1.113198 0.2072,-2.20606 0.57596,-1.293591 1.50096,-1.870558 0.84816,-0.584454 1.88191,-0.685405 1.04369,-0.123254 2.0921,0.103015 1.03849,0.248573 1.99753,0.675573 1.73966,0.774557 2.88185,1.630522 1.17932,0.952666 2.49962,2.368975 z"
+         style="font-weight:normal;font-family:'Frutiger 55 Roman';-inkscape-font-specification:'Frutiger 55 Roman, Normal'"
+         id="path945" />
+      <path
+         d="m 339.70713,107.26979 q 4.13709,-3.68757 9.04289,-4.20115 4.8531,-0.49932 8.79622,3.70432 3.74067,4.41681 2.68884,9.1808 -1.08827,4.79648 -5.22536,8.48405 -3.99129,3.55761 -8.81982,4.23126 -4.93393,0.70218 -9.01929,-3.73443 -3.89083,-4.5119 -2.62823,-9.33295 1.17346,-4.77429 5.16475,-8.3319 z m -3.52512,-3.95484 q -6.05072,5.39327 -6.72096,11.94295 -0.82634,6.558 4.41082,12.61705 5.43566,5.91482 12.09389,5.89962 6.48587,-0.0251 12.56908,-5.38192 5.89066,-5.31601 6.71898,-11.90848 0.81208,-6.61069 -4.42707,-12.63527 -5.40119,-5.912843 -12.0289,-5.826724 -6.69269,0.01322 -12.61584,5.292774 z"
+         style="font-weight:normal;font-family:'Frutiger 55 Roman';-inkscape-font-specification:'Frutiger 55 Roman, Normal'"
+         id="path947" />
+      <path
+         d="m 362.3996,172.88089 1.41868,4.7996 14.86707,-4.39442 0.8512,2.87977 q 0.6143,1.906 0.56391,3.37201 -0.13446,1.43995 -2.16431,3.18555 l -10.09715,8.55988 1.61936,5.47858 11.44642,-10.28253 q 1.32379,-1.20595 1.89572,-2.11329 0.45486,-0.87274 0.51378,-2.13761 l 0.0937,-0.0277 q 1.40781,2.868 4.0356,4.17885 2.53413,1.33853 5.61504,0.47879 3.02024,-0.89272 4.53502,-2.48608 1.50093,-1.64019 1.87424,-3.73627 0.37331,-2.09609 0.009,-4.53425 -0.44407,-2.36365 -1.19838,-4.91563 l -2.42213,-8.19445 z m 30.66116,-3.84391 1.35638,4.58889 q 1.87865,6.70031 -2.95394,8.17964 -5.15506,1.42191 -7.35942,-5.69129 l -1.20414,-4.07381 z"
+         style="font-weight:normal;font-family:'Frutiger 55 Roman';-inkscape-font-specification:'Frutiger 55 Roman, Normal'"
+         id="path949" />
+    </g>
+    <g
+       aria-label="ROCKER"
+       id="text36711"
+       style="font-size:50px;line-height:1.25;letter-spacing:56.25px;word-spacing:0px;display:inline;stroke:#000000;stroke-width:1.14045">
+      <path
+         d="m 51.153175,278.21994 1.794433,4.67214 14.472228,-5.55837 1.07666,2.80329 q 0.763355,1.85134 0.829268,3.31674 -0.01997,1.44607 -1.905157,3.347 l -9.387312,9.33286 2.048281,5.33307 10.595874,-11.15698 q 1.224093,-1.30703 1.722347,-2.25683 0.384298,-0.90603 0.34283,-2.17159 l 0.09116,-0.035 q 1.63058,2.74745 4.353954,3.84601 2.63221,1.13358 5.635326,0.0325 2.940027,-1.12918 4.323818,-2.83753 1.366284,-1.75393 1.57237,-3.873 0.206085,-2.11907 -0.350176,-4.52071 -0.629917,-2.32104 -1.584031,-4.80525 l -3.063667,-7.97682 z m 30.26028,-6.26077 1.715653,4.46701 q 2.403537,6.53043 -2.296675,8.38795 -5.026222,1.82582 -7.787153,-5.0904 l -1.52308,-3.96562 z"
+         style="font-family:'Frutiger 55 Roman';-inkscape-font-specification:'Frutiger 55 Roman, Normal'"
+         id="path989" />
+      <path
+         d="m 109.68511,341.46853 q 3.61214,-4.20311 8.40666,-5.36204 4.74419,-1.13781 9.20942,2.50644 4.29279,3.88236 3.88133,8.7437 -0.44329,4.89837 -4.05543,9.10148 -3.48484,4.05499 -8.18158,5.36234 -4.79742,1.34959 -9.4345,-2.50674 -4.45423,-3.95671 -3.8414,-8.90253 0.53066,-4.88766 4.0155,-8.94265 z m -4.01795,-3.45301 q -5.28295,6.14728 -5.07965,12.72802 0.0497,6.60967 6.04334,11.92155 6.17129,5.14264 12.76882,4.24555 6.42539,-0.88406 11.74537,-6.99951 5.13453,-6.0495 5.08225,-12.6936 -0.0708,-6.66001 -6.06185,-11.93746 -6.13687,-5.14524 -12.69476,-4.1819 -6.63196,0.89968 -11.80352,6.91735 z"
+         style="font-family:'Frutiger 55 Roman';-inkscape-font-specification:'Frutiger 55 Roman, Normal'"
+         id="path991" />
+      <path
+         d="m 206.79871,376.99441 1.45959,-4.65251 q -3.33632,-2.31743 -7.35072,-3.15996 -7.92286,-1.71151 -13.92379,1.88128 -6.12539,3.59013 -7.95343,11.58712 -1.7751,8.20885 2.07987,14.04298 3.77287,5.8659 11.91286,7.72573 1.62059,0.36031 3.7761,0.56445 2.13961,0.27563 4.26871,-0.0763 l 0.73933,-4.78765 v 0 q -1.46973,0.42354 -3.61997,0.42066 -2.25086,-2.5e-4 -4.15743,-0.42415 -5.3993,-1.25047 -8.21107,-5.7022 -2.95743,-4.35905 -1.64862,-10.47067 1.35645,-5.87594 5.72344,-8.75657 4.35376,-2.9336 10.29855,-1.66188 3.76548,0.8372 6.60658,3.4697 z"
+         style="font-family:'Frutiger 55 Roman';-inkscape-font-specification:'Frutiger 55 Roman, Normal'"
+         id="path993" />
+      <path
+         d="m 263.25935,403.64518 4.82845,-1.31716 -4.49763,-16.4874 v 0 l 19.50115,12.39455 7.04248,-1.92113 -21.92082,-13.10101 11.49089,-20.21629 -6.40653,1.74765 -10.35612,18.71734 v 0 l -4.03501,-14.79155 -4.82845,1.31717 z"
+         style="font-family:'Frutiger 55 Roman';-inkscape-font-specification:'Frutiger 55 Roman, Normal'"
+         id="path995" />
+      <path
+         d="m 343.24533,365.0246 14.30388,-13.33503 -2.99663,-3.21435 -10.64309,9.92219 -7.8412,-8.4109 9.69665,-9.03985 -2.99664,-3.21435 -9.69664,9.03984 -6.95885,-7.46445 10.64309,-9.92219 -2.99663,-3.21435 -14.30389,13.33502 z"
+         style="font-family:'Frutiger 55 Roman';-inkscape-font-specification:'Frutiger 55 Roman, Normal'"
+         id="path997" />
+      <path
+         d="m 392.76013,298.52507 1.69301,-4.70984 -14.589,-5.24421 1.01581,-2.8259 q 0.63125,-1.90045 1.53851,-3.0531 0.95967,-1.08193 3.62879,-1.28994 l 13.20414,-0.93521 1.93251,-5.37611 -15.31075,1.52703 q -1.78061,0.19013 -2.77828,0.58386 -0.88279,0.43503 -1.67803,1.4204 l -0.0919,-0.033 q 0.55991,-3.14544 -0.78467,-5.75613 -1.25268,-2.57766 -4.24586,-3.70549 -2.96375,-1.06536 -5.12742,-0.67566 -2.18019,0.43565 -3.72038,1.9056 -1.54019,1.46995 -2.6877,3.65181 -1.03909,2.16894 -1.93928,4.6732 l -2.8905,8.04118 z m -27.00253,-15.02483 1.61869,-4.50306 q 2.4456,-6.51479 7.2179,-4.85121 4.99845,1.90053 2.57148,8.94089 l -1.437,3.99761 z"
+         style="font-family:'Frutiger 55 Roman';-inkscape-font-specification:'Frutiger 55 Roman, Normal'"
+         id="path999" />
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:none;stroke-width:0.9375"

@@ -1,0 +1,25 @@
+{
+    "short_name": "Windsor Rocker",
+    "name": "Windsor Rocker Company",
+    "icons": [
+        {
+            "src": "/static/images/windsorrockerroundel.svg",
+            "type": "image/svg+xml",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/static/images/WindsorRockerLogo16.png",
+            "type": "image/png",
+            "sizes": "16x16"
+        },
+        {
+            "src": "/static/images/WindsorRockerLogo32.png",
+            "type": "image/png",
+            "sizes": "32x32"
+        } 
+    ],
+    "start_url": "/",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "description": "It's all about the Windsor Rocker"
+}
